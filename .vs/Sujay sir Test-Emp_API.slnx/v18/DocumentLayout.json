@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\dtos\\employeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\dtos\\employeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\openapi\\bearersecurityschemetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\openapi\\bearersecurityschemetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\sujay sir test-emp_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\sujay sir test-emp_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RSI\\AppData\\Local\\Temp\\4b8be8a9-911a-40c7-89a3-8bbe769f8b91_Sujay_sir_Test-Emp_API.zip.b91\\Sujay sir Test-Emp_API\\Repository\\IEmployeeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|d:\\rohit\\sujay sir task\\sujay sir test-emp_api - copy\\sujay sir test-emp_api\\migrations\\20261110133952_task_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6C69F-9451-B5E3-F374-5BE95AA86DBB}|Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj|solutionrelative:sujay sir test-emp_api\\migrations\\20261110133952_task_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDtos.cs",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\DTOs\\EmployeeDtos.cs",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\DTOs\\EmployeeDtos.cs",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\DTOs\\EmployeeDtos.cs",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\DTOs\\EmployeeDtos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:39:55.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:00:06.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:57:06.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:25:02.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:50:33.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\appsettings.json",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\appsettings.json",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T13:23:36.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BearerSecuritySchemeTransformer.cs",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\OpenApi\\BearerSecuritySchemeTransformer.cs",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\OpenApi\\BearerSecuritySchemeTransformer.cs",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\OpenApi\\BearerSecuritySchemeTransformer.cs",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\OpenApi\\BearerSecuritySchemeTransformer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:26:07.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T14:31:19.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Program.cs",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\Program.cs",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Program.cs",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:10:54.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sujay sir Test-Emp_API.csproj",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\Sujay sir Test-Emp_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-10T11:55:35.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20261110133952_Task_First.cs",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Migrations\\20261110133952_Task_First.cs",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\Migrations\\20261110133952_Task_First.cs",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Migrations\\20261110133952_Task_First.cs",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\Migrations\\20261110133952_Task_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:39:53.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\Models\\Employee.cs",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\Models\\Employee.cs",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T11:10:19.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Sujay sir Test-Emp_API\\appsettings.Development.json",
+              "ToolTip": "D:\\Rohit\\Sujay sir task\\Sujay sir Test-Emp_API - Copy\\Sujay sir Test-Emp_API\\appsettings.Development.json",
+              "RelativeToolTip": "Sujay sir Test-Emp_API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T13:20:21.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RSI\\AppData\\Local\\Temp\\4b8be8a9-911a-40c7-89a3-8bbe769f8b91_Sujay_sir_Test-Emp_API.zip.b91\\Sujay sir Test-Emp_API\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\RSI\\AppData\\Local\\Temp\\4b8be8a9-911a-40c7-89a3-8bbe769f8b91_Sujay_sir_Test-Emp_API.zip.b91\\Sujay sir Test-Emp_API\\Repository\\IEmployeeRepository.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:53:19.298Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
